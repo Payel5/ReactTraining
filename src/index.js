@@ -1,9 +1,7 @@
 import React from "react";
 import ReactDom from "react-dom";
+import App from '../src/App.js';
 
-function App(){ 
-  return <p>Hello, This is my first app using ReactDom.</p>;
-}
 
 ReactDom.render(<App />, document.getElementById("root"));
 
