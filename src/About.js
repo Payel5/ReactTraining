@@ -6,7 +6,7 @@ function AboutPage(){
     return (
         <>
             <Header/>
-            <h1> This is my first app using ReactDom.</h1>
+            <h2> This is my first app using ReactDom.</h2>
             <p>hello It is AboutPage</p>
         </>);
   }

@@ -6,7 +6,7 @@ import AboutPage from '../src/About.js';
 function App(){
     const route= window.location.pathname;
     if(route === '/About') return <AboutPage/>
-    if(route=== '/Home') return <HomePage/>
+    if(route === '/Home') return <HomePage/>
     return<HomePage/>
 }
 

@@ -3,7 +3,7 @@ import React from 'react';
 function header(){
     return (
         <>
-            <a href="About">About Page</a> | <a href="Home">HomePage</a>
+            <a href="About">AboutPage</a> | <a href="Home">HomePage</a>
         </>
     )
 }

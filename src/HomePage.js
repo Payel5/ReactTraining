@@ -6,7 +6,7 @@ function HomePage(){
         <>
             <Header/>
             <h1> This is my first app using ReactDom.</h1>
-            <p>hello It is HomePage</p>
+            <p>It is HomePage</p>
         </>);
   }
 
